@@ -8,9 +8,9 @@ public class Example15 {
         float first, second, num1, num2;
 
         System.out.print("Введите первое число: ");
-        first = in.nextInt();
+        first = in.nextFloat();
         System.out.print("Введите второе число: ");
-        second = in.nextInt();
+        second = in.nextFloat();
 
         num1 = first + second;
         num2 = first - second;

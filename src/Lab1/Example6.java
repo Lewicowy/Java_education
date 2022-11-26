@@ -18,7 +18,5 @@ public class Example6 {
         System.out.println("Фамилия: " + lastname);
         System.out.println("Имя: " + firstname);
         System.out.println("Отчество: " + patronymic);
-
-
     }
 }
