@@ -11,9 +11,9 @@ public class Example2 {
          num = in.nextFloat();
 
          if (num % 5 == 2 && num % 7 == 1) {
-             System.out.print("Условие верно");
+             System.out.print("Условие верно!");
          } else {
-             System.out.print("Условие неверно");
+             System.out.print("Условие неверно!");
          }
     }
 }

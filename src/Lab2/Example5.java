@@ -18,6 +18,5 @@ public class Example5 {
             num_ost = num % 10;
             System.out.print("Число содержит: " + num_ost + " тысяч(у)");
         }
-
     }
 }
