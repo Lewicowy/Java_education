@@ -10,7 +10,8 @@ public class Example8 {
         char n = 10;
         char alf[] = new char[n];
 
-        System.out.print("10 согласных букв: ");
+        System.out.print("Согласные буквы: " + abc);
+        System.out.print("\nПервые 10 согласных букв: ");
         for (int i = 0; i < 10; i++) {
             alf[i] = abc.charAt(i);
             System.out.print(alf[i]);

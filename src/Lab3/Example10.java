@@ -30,6 +30,7 @@ public class Example10 {
             arr[max] = arr[i];
             arr[i] = a;
         }
+
         System.out.print("\nСортировка массива в порядке убывания: ");
         for (int i = 0; i < n; i++) {
             System.out.print(arr[i] + " ");
