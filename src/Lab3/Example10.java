@@ -19,19 +19,20 @@ public class Example10 {
             System.out.print(arr[k] + " ");
         }
 
-        for (int k = 0; k < n; k++) {
-            int max = k;
-            for (int p = k + 1; p > n; p++) {
-                if (arr[p] > arr[max]) {
-                    max = p;
+        for (int i = 0; i < n; ++i) {
+            int max = i;
+            for (int j = i + 1; j < n; ++j) {
+                if (arr[j] > arr[max]) {
+                    max = j;
                 }
-                int a = arr[p];
-                arr[p] = arr[max];
-                arr[p] = a;
             }
+            int a = arr[max];
+            arr[max] = arr[i];
+            arr[i] = a;
         }
+        System.out.print("\nСортировка массива в порядке убывания: ");
         for (int i = 0; i < n; i++) {
-            System.out.print("\n" + arr[i]);
+            System.out.print(arr[i] + " ");
         }
     }
 }
