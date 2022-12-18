@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41c13bf2-97b2-450e-95b4-e3447e8bdc31" name="Changes" comment="feature Lab 2">
-      <change afterPath="$PROJECT_DIR$/src/Lab4/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/Example7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab4/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab4/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab4/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab4/Example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab4/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab4/Example3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +142,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671133145558</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="feature Lab 2">
+      <created>1671304869883</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1671304869883</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feature Lab 2">
+      <created>1671305612339</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1671305612339</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,5 +187,16 @@
     <MESSAGE value="feature/task1293" />
     <MESSAGE value="feature Lab 2" />
     <option name="LAST_COMMIT_MESSAGE" value="feature Lab 2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lab4/fdsferg34.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
