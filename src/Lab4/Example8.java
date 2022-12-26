@@ -27,10 +27,14 @@ public class Example8 {
         System.out.print("\nВыполнить обратное преобразование? (y/n): ");
         choice = jo.nextLine();
 
-        for(int i = 0; i < chars.length; i++) {
-            ints[i] = chars[i] - key;
-            chars[i] = (char)ints[i];
+        switch (choice) {
+            case "y": for(int i = 0; i < chars.length; i++) {
+                ints[i] = chars[i] - key;
+                chars[i] = (char)ints[i];
+            }
+            System.out.print("\nТекст до преобразования: " + Arrays.toString(chars)); break;
+            case "n": System.out.print("\nДо свидания"); break;
+            default: System.out.print("\nВведён неккоректный ответ");
         }
-        System.out.print("\nТекст до преобразования: " + Arrays.toString(chars));
     }
 }
