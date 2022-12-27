@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41c13bf2-97b2-450e-95b4-e3447e8bdc31" name="Changes" comment="feature Lab 2" />
+    <list default="true" id="41c13bf2-97b2-450e-95b4-e3447e8bdc31" name="Changes" comment="feature Lab 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab4/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab4/Example1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672081490533</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="feature Lab 2">
+      <created>1672081768900</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1672081768900</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,16 +218,5 @@
     <MESSAGE value="feature/task1293" />
     <MESSAGE value="feature Lab 2" />
     <option name="LAST_COMMIT_MESSAGE" value="feature Lab 2" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lab4/Example7.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

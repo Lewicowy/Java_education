@@ -6,7 +6,7 @@ public class Example1 {
 
         for (i = -1; i < figure; i++) {
             if ((i == -1) || (i == figure)) {
-                for (j = -15; j <= figure; j++) {
+                for (j = -14; j <= figure; j++) {
                     System.out.print("*");
                 }
                 System.out.print("\n");
