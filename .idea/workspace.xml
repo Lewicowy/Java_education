@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41c13bf2-97b2-450e-95b4-e3447e8bdc31" name="Changes" comment="feature Lab 2">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab5/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab5/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab5/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab5/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab5/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab5/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab5/main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab5/main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab5/main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab5/main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab5/main6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/Task1/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/Task1/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab5/Example1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,18 +35,35 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.main2">
-    <configuration name="main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab5.main2" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab5.Task1.Main" />
       <module name="Java_education" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab5.*" />
+          <option name="PATTERN" value="Lab5.Task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab5.Task2.main2" />
+      <module name="Java_education" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab5.Task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,11 +72,11 @@
       </method>
     </configuration>
     <configuration name="main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab5.main3" />
+      <option name="MAIN_CLASS_NAME" value="Lab5.Task3.main3" />
       <module name="Java_education" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab5.*" />
+          <option name="PATTERN" value="Lab5.Task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,11 +85,11 @@
       </method>
     </configuration>
     <configuration name="main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab5.main4" />
+      <option name="MAIN_CLASS_NAME" value="Lab5.Task4.main4" />
       <module name="Java_education" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab5.*" />
+          <option name="PATTERN" value="Lab5.Task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.main2" />
         <item itemvalue="Application.main3" />
         <item itemvalue="Application.main4" />
@@ -256,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672168705014</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="feature Lab 2">
+      <created>1674578360589</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1674578360589</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

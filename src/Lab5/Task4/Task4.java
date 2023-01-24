@@ -1,4 +1,4 @@
-package Lab5;
+package Lab5.Task4;
 
 public class Task4 {
     private char sim;

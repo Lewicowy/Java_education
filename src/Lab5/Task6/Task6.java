@@ -1,4 +1,4 @@
-package Lab5;
+package Lab5.Task6;
 
 public class Task6 {
     private int max;

@@ -1,4 +1,4 @@
-package Lab5;
+package Lab5.Task3;
 
 import java.util.Random;
 

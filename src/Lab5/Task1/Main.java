@@ -1,4 +1,6 @@
-package Lab5;
+package Lab5.Task1;
+
+import Lab5.Task1.Task1;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Lab5;
+package Lab5.Task5;
 
 public class Task5 {
     private int n;
