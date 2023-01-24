@@ -52,6 +52,6 @@ final class Subclass2 extends Subclass1 {
 
     @Override
     public String toString() {
-        return "Subclass2{" + "Текст =' " + text + '\'' + ", Признак = " + character + ", Величина=" + value + '}';
+        return "Subclass2{" + "Тест =' " + text + '\'' + ", Признак = " + character + ", Величина=" + value + '}';
     }
 }
