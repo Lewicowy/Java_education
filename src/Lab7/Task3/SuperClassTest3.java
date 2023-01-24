@@ -13,7 +13,7 @@ public class SuperClassTest3 {
 
     @Override
     public String toString() {
-        return "SuperClassTest3{" + "value=" + value + '}';
+        return "SuperClassTest3{" + "Величена = " + value + '}';
     }
 }
 
@@ -32,7 +32,7 @@ class Subclass1 extends SuperClassTest3 {
 
     @Override
     public String toString() {
-        return "InheritedClass{" + "character=" + character + ", value=" + value + '}';
+        return "Subclass1{" + "Признак = " + character + ", Величена = " + value + '}';
     }
 }
 
@@ -52,6 +52,6 @@ final class Subclass2 extends Subclass1 {
 
     @Override
     public String toString() {
-        return "FinalClass{" + "text='" + text + '\'' + ", character=" + character + ", value=" + value + '}';
+        return "Subclass2{" + "Текст =' " + text + '\'' + ", Признак = " + character + ", Величина=" + value + '}';
     }
 }
